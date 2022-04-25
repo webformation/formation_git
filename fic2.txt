@@ -1,1 +1,3 @@
 nom du fichier : fic2
+ligne numero2
+
